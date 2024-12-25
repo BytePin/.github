@@ -28,10 +28,10 @@ To lead the way in creating intelligent systems that redefine user experiences a
 
 Here are some of our key repositories:
 
-- [**Voxtrona**](#): A revolutionary 8D Music app powered by Dirac Spatial Audio.
-- [**GenesisOS**](#): An Advanced Operating System aim to suit all your needs.
+- [**Voxtrona**](https://github.com/BytePin/Voxtrona): A revolutionary 8D Music app powered by Dirac Spatial Audio.
+- [**GenesisOS**](https://github.com/BytePin/GenesisOS): An Advanced Operating System aim to suit all your needs.
 
-Explore all our repositories in the [Repositories](../repositories) section of our profile.
+Explore all our repositories in the [Repositories] section of our profile.
 
 ---
 
