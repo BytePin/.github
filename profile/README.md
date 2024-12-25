@@ -1,6 +1,6 @@
 # Welcome to BytePin AI 🌟
-
-![BytePin AI Logo]([https://via.placeholder.com/150](https://ibb.co/qW1JrmZ))
+![Voxtrona](img/Untitled(16)-modified.png)
+![BytePin AI Logo]()
 
 ## About Us
 
