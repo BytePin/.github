@@ -1,6 +1,6 @@
 # Welcome to BytePin AI 🌟
 
-![BytePin AI Logo](Official-Banner.png)
+![BytePin AI Logo](Official.png)
 
 ## About Us
 
